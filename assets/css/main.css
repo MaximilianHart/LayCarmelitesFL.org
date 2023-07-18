@@ -2127,7 +2127,7 @@ input, select, textarea {
 				-webkit-transition: -webkit-transform 0.5s ease;
 				-ms-transition: -ms-transform 0.5s ease;
 				transition: transform 0.5s ease;
-				background-color: rgba(59, 62, 69, 0.9);
+				background-color: rgba(49, 30, 16, 0.9);
 				box-shadow: inset 0px 0px 0px 1px rgba(0, 0, 0, 0.5), inset 0px 0px 0px 2px rgba(255, 255, 255, 0.075), 0px 1px 6px 0px rgba(0, 0, 0, 0.35);
 				display: block;
 				height: 44px;
@@ -2230,6 +2230,7 @@ input, select, textarea {
 					font-weight: 700;
 					font-size: 0.95em;
 					letter-spacing: 0.075em;
+					overflow-y: auto;
 				}
 
 					#navPanel .link:first-child {
