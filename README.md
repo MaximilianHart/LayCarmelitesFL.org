@@ -1,6 +1,6 @@
 ## To see a preview version of the website
 
-To view this website before it's live, you'll need an IDE like [Visual Studio Code](https://code.visualstudio.com/), and a way to preview the files. You can do this in VS Code using the ["Live Server" extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) by Ritwick Dey.
+To view this website before it's live, you'll need an IDE like [Visual Studio Code](https://code.visualstudio.com/), and a way to preview the files. You can do this in VS Code using the ["Live Server" extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) by Ritwick Dey (click the four boxes on the left sidebar in VS Code--it should be the 5th icon down--and search for it, then install).
 
 Just click the "<> Code" button above, download the ZIP file, extract it in a folder, and then open that folder in VS Code. Right click the `index.html` page, then "Open with Live Server." It should open locally in a browser and you'll be able to browse the website as if it was live on the Internet. Resize the page, and you'll see the website react responsively.
 
