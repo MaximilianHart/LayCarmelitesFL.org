@@ -8,7 +8,7 @@
 
 ## Making changes locally
 
-### Every time you go to make changes, _**before you make any changes**, check to see if there are any changes that have been made on the remote branch (the one on GitHub). 
+### Every time you go to make changes, **before you make any changes**, check to see if there are any changes that have been made on the remote branch (the one on GitHub). 
 - To do this, click "Fetch origin" and if there are any changes, "Pull origin with rebase" so your local copy is synced up. If anything wonks out, get in touch.
 - Now you're good to make any changes you'd like! 
 - To make a new page, copy the `NEWPAGETEMPLATE.html` file, rename the new one, and make whatever changes you'd like under the `<!-- Content -->` tag. I'd recommend [this online HTML editor](https://html-online.com/editor/) to make your life easy.
